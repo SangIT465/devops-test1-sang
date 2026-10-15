@@ -1,0 +1,11 @@
+{
+  "name": "devops-test1-sang",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "serve src -l 3000",
+    "build": "node build.js"
+  },
+  "devDependencies": {
+    "serve": "^14.2.0"
+  }
+}
